@@ -17,6 +17,7 @@
     "react-scripts": "3.4.3"
   },
   "devDependencies": {
+    "tachyons": "^4.10.0",
     "typescript": "3.8.3"
   },
   "scripts": {

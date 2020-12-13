@@ -1,0 +1,96 @@
+.grocery-data-container {
+  /* border: 1px solid black; */
+  display: flex;
+  flex-direction: column;
+}
+
+.nutrition--list {
+  margin-left: 15vw;
+}
+
+.reset-data-container {
+  margin-right: 20vw;
+}
+.fw6 {
+  font-weight: 600;
+}
+
+.lh-copy {
+  line-height: 1.5;
+}
+
+.mw8 {
+  max-width: 64rem;
+}
+
+.w-100 {
+  width: 100%;
+}
+
+.overflow-auto {
+  overflow: auto;
+}
+
+.bg-white {
+  background-color: #fff;
+}
+
+.pa3 {
+  padding: 1rem;
+}
+
+.pa4 {
+  padding: 2rem;
+}
+
+.stripe-dark:nth-child(odd) {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+.tl {
+  text-align: left;
+}
+
+.f6 {
+  font-size: 0.875rem;
+}
+
+.center {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.item--container {
+  float: right;
+  max-width: 20vw;
+  margin-left: 65vw;
+  display: flex;
+  align-items: flex-end;
+  /* border: 1px solid black; */
+  margin-bottom: 2vh;
+}
+
+.add--data {
+  margin: 10px;
+  background-color: white;
+  border: 1px solid gray;
+  color: green;
+  padding: 10px;
+}
+
+.reset--data {
+  float: right;
+  margin: 10px;
+  background-color: lightgreen;
+  border: none;
+  color: white;
+  padding: 10px;
+}
+
+.delete--data {
+  margin: 10px;
+  background-color: red;
+  color: white;
+  padding: 10px;
+  border: none;
+}
